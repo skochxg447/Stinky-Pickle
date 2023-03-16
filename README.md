@@ -1,5 +1,5 @@
 # scrape-app
-This repo holds a web app built with streamlite intended on scraping info like business name, address, city, state, ZIP, phone number, and email from a website.
+This repository contains a web application developed with Streamlit that is designed to extract information such as the name of a business, its address, city, state, ZIP code, phone number, and email from a website through web scraping techniques.
 
 ## make it work
 to make the app in this repo actually work you need to make a file in the same directory as the res of the files called "api_key.py" and put in the file an api key in the format "api_key = 'THIS-IS-THE-KEY'". 
